@@ -1,0 +1,13 @@
+def Wierzbicki_Jakub_ukladL(A,b):
+    X=len(A)*[0]
+    for i in range(len(A)):
+        X[i]=b[i]
+        for j in range(len(A[i])):
+            if i==j: continue
+            X[i] -= A[i][j]*X[j]
+        X[i] /= A[i][i]
+    return X
+#przyklad
+A=[[1,0,0],[2,2,0],[3,3,3]]
+b=[1,4,12]
+print(Wierzbicki_Jakub_ukladL(A,b))

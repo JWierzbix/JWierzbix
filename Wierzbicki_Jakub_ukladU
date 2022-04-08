@@ -1,0 +1,15 @@
+def Wierzbicki_Jakub_ukladU(A,b):
+    X= [0]*len(A[0])
+    for i in range(len(A)):
+        m = len(A)-i-1
+        X[m]=b[m]
+        for j in range(i+1):
+            n=len(A[m])-1-j
+            if m==n: continue
+            X[m]-=A[m][n]*X[n]
+        X[m]/=A[m][m]
+    return X
+#przyklad:
+A=[[3,3,3],[0,2,2],[0,0,1]]
+b=[12,4,1]
+print(Wierzbicki_Jakub_ukladU(A,b))
