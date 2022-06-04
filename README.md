@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 
 <!---
+*****************************
+********* KNOWLEDGE *********
+*****************************
 =============================
 Technology used:
 -----------------------------
@@ -23,4 +26,12 @@ Algorithms & Data Structures:
 > Optimalisation Methods
 > Numerical Methods
 > Heap, Queue, Binary Tree, List, Dictionary, Arrayys
+=============================
+Software Used:
+-----------------------------
+> Visual Studio, PyCharm, Notepad++
+> SQL Management Studio
+> CBA hosting (for Web developement)
+> LateX
+> Azure: DNS, IIS, Virtual Machines 
 --->
