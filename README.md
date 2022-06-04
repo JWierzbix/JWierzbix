@@ -38,6 +38,7 @@ Software Used:
 Projects:
 -----------------------------
 1. Prolog Validator (used: C#, Windows Forms)
+everything connected with this project: https://github.com/przemekpia/IO.git 
 ****
 everything below is on WebSide: http://jakubwierzbicki.cba.pl/ login:sggw , pass:123
 2. Simple Calculator (used: JavaScript, HTML5, CSS)
