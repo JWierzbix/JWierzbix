@@ -34,4 +34,17 @@ Software Used:
 > CBA hosting (for Web developement)
 > LateX
 > Azure: DNS, IIS, Virtual Machines 
+=============================
+Projects:
+-----------------------------
+1. Prolog Validator (used: C#, Windows Forms)
+****
+everything below is on WebSide: http://jakubwierzbicki.cba.pl/ login:sggw , pass:123
+2. Simple Calculator (used: JavaScript, HTML5, CSS)
+3. Data WareHouse for Math tutoring (used: PHP, HTML5, CSS)
+4. Logging Lobby (used: PHP, HTML5, CSS)
+5. Invoice (used: XML, XSLT, HTML5)
+****
+6.
+7.
 --->
