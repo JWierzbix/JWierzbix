@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JWierzbix
 - 👀 I’m interested in math, algorithms 
-- 🌱 I’m currently learning linux and developing more algorithms
+- 🌱 I’m currently creating desktop applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
