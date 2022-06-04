@@ -5,6 +5,22 @@
 - 📫 How to reach me ...
 
 <!---
-JWierzbix/JWierzbix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+=============================
+Technology used:
+-----------------------------
+> C# : .Net Core, .Net Framework, Windows Forms, WPF
+> HTML, CSS, JS, PHP, XML/XSLT, phpMyAdmin, mySQL
+> Python
+> SQL
+> Software Engeneering: UML, PERT, GANTT
+> Structural Programming, Object Oriented Programming
+=============================
+Algorithms & Data Structures:
+-----------------------------
+> Dynamic Programming, Win & Qoncuer
+> Sorting Algortithms, Searching Algorithms, Greedy Programming
+> Graphs
+> Optimalisation Methods
+> Numerical Methods
+> Heap, Queue, Binary Tree, List, Dictionary, Arrayys
 --->
