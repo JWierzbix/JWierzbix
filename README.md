@@ -11,7 +11,7 @@ Technology used:
 > C# : .Net Core, .Net Framework, Windows Forms, WPF
 > HTML, CSS, JS, PHP, XML/XSLT, phpMyAdmin, mySQL
 > Python
-> SQL
+> T-SQL
 > Software Engeneering: UML, PERT, GANTT
 > Structural Programming, Object Oriented Programming
 =============================
