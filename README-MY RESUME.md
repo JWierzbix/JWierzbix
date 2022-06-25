@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JWierzbix
-- Below you can find out a few things about me
+👋 Hi, I’m @JWierzbix.
+Below you can find out a few things about me.
 <!---
 *****************************
 ********* KNOWLEDGE *********
