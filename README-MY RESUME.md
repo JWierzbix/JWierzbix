@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @JWierzbix
-- 👀 I’m interested in math, algorithms 
-- 🌱 I’m currently creating desktop applications
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- Below you can find out a few things about me
 <!---
 *****************************
 ********* KNOWLEDGE *********
